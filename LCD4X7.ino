@@ -1,7 +1,6 @@
 /*
    Jesús José Navarrete Baca @ChecheSwap
-   Microprocesadores,8HW1, FING UACH
-   Practica #4, Control de LED de 7 Segmentos * 4 digitos.
+   LED 7 segments 4 Digits
    22/02/2019
 
 
