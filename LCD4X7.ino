@@ -1,5 +1,5 @@
 /*
-   Jesús José Navarrete Baca @ChecheSwap
+   Powered by: Jesús José Navarrete Baca @ChecheSwap
    LED 7 segments 4 Digits
    22/02/2019
 
